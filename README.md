@@ -1,6 +1,7 @@
 # subBro
 
-## This script fetches subdomains for a given domain using the `crt.sh` service and saves the results to a file. As part of [100 days of cyber security](https://github.com/sudheeshspai/100-days-of-cybersecurity)
+## This script fetches subdomains for a given domain using the `crt.sh` service and saves the results to a file.                    
+  
 
 ## Prerequisites
 
